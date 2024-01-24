@@ -21,7 +21,7 @@ $ julia --project
 3. Enter the package mode by typing `]` and instantiate the environment to download and precompile the dependencies:
 
 ```julia-repl
-] instantiate
+(julia-ski-workshop-2024) pkg> instantiate
 ```
 
 ---
