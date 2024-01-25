@@ -1,7 +1,5 @@
 # Julia :ski: workshop on differentiable programming
 
----
-
 ## Instructions
 
 Follow these steps before venturing into the majestic wilderness of the Swiss Alps.
